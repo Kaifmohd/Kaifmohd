@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kaif Siddique</h1>
-<h3 align="center">: 🚀 "Software engineer with a backend focus, a dash of frontend expertise, and a deep passion for learning and evolving. Join me on my coding journey as I craft innovative solutions and continually enhance my GitHub. Let's collaborate and create software wizardry together! ✨"</h3>
+<h3 align="center">🚀 "Software engineer with a backend focus, a dash of frontend expertise, and a deep passion for learning and evolving. Join me on my coding journey as I craft innovative solutions and continually enhance my GitHub. Let's collaborate and create software wizardry together! ✨"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifmohd&label=Profile%20views&color=0e75b6&style=flat" alt="kaifmohd" /> </p>
 
